@@ -2,6 +2,6 @@
 # say_hello("Gabriela")
 
 def say_hello(name)
-say "Hello #{name}!"
+  puts"Hello #{name}!"
 end
 
