@@ -4,7 +4,7 @@
 def say_hello(name)
 If name =! "Gabriela"
   return "Hello Ruby Programmer!"
-else 
+elsif name == "Gabriela"
   return "Hello Gabriela"
 end
 end
